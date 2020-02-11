@@ -1,0 +1,16 @@
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.exe
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.deps.json
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.runtimeconfig.json
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.runtimeconfig.dev.json
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.dll
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\content-moderator-quickstart.pdb
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.csprojAssemblyReference.cache
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.AssemblyInfoInputs.cache
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.AssemblyInfo.cs
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.dll
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.pdb
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.ContentModerator.dll
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\poc\dotnetcore\content-moderator-quickstart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\poc\dotnetcore\content-moderator-quickstart\obj\Debug\netcoreapp3.1\content-moderator-quickstart.csproj.CopyComplete
